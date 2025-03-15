@@ -1,2 +1,2 @@
 # Breast-Cancer-Lung-Metastasis-Calculator
-A packaged breast cancer lung metastasis calculator, double-click to use, limited to Windows systems
+A breast cancer lung metastasis calculator written in Python, incorporating the model mentioned in the text. Double-click the executable to use, limited to Windows systems
